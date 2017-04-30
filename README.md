@@ -17,7 +17,7 @@ if projectName skipped, used template name.
 
 Program will create simple structure:
 
-    |- CMakeList.txt
+    |- CMakeLists.txt
     |- source
     |- |- main.cpp
 
